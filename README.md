@@ -25,9 +25,9 @@ py restServicesChecker.py
 ```
 
 ## Images
-![alt text](https://github.com/pk111297/RestServicesChecker/issues/1)
-![alt text](https://github.com/pk111297/RestServicesChecker/issues/2)
-![alt text](https://github.com/pk111297/RestServicesChecker/issues/3)
+https://github.com/pk111297/RestServicesChecker/issues/1
+https://github.com/pk111297/RestServicesChecker/issues/2
+https://github.com/pk111297/RestServicesChecker/issues/3
 
 
 ## Contributing
