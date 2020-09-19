@@ -24,6 +24,12 @@ or
 py restServicesChecker.py
 ```
 
+## Images
+![alt text](https://github.com/pk111297/RestServicesChecker/issues/1)
+![alt text](https://github.com/pk111297/RestServicesChecker/issues/2)
+![alt text](https://github.com/pk111297/RestServicesChecker/issues/3)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
