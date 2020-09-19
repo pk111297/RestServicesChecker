@@ -27,8 +27,9 @@ py restServicesChecker.py
 ## Images
 ![Screenshot from 2020-09-19 13-43-50](https://user-images.githubusercontent.com/47408448/93663554-7ee94580-fa86-11ea-9cd2-4b175f404ade.png)
 
-https://github.com/pk111297/RestServicesChecker/issues/2
-https://github.com/pk111297/RestServicesChecker/issues/3
+![Screenshot from 2020-09-19 13-44-35](https://user-images.githubusercontent.com/47408448/93663597-b657f200-fa86-11ea-9861-05664560cd76.png)
+
+![Screenshot from 2020-09-19 13-44-59](https://user-images.githubusercontent.com/47408448/93663616-d7204780-fa86-11ea-8c29-e5d3cdb80232.png)
 
 
 ## Contributing
