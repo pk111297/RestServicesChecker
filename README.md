@@ -7,7 +7,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install this pa
 
 ```bash
 pip install requests
-pip insatll tkinter
+pip install tkinter
 pip install json
 ```
 
